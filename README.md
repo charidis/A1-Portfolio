@@ -7,6 +7,7 @@ This assignment is to create your portfolio website that includes the following 
 - Paragraphs
 - One carousel
 - Images with your picture and one video
-- A list\n
+- A list
+
 Submit a GitHub project link (or zipped project folder).
 Each student will present their portfolio website and explain the source code in the class.
