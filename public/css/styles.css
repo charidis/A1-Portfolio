@@ -1,0 +1,19 @@
+.container .nav .nav-link{
+    color: #cccccc;
+}
+.carousel .carousel-item{
+    height: 300px;
+  }
+.card-text{
+    min-height: 100px;
+}
+.me-img{
+    border-radius: 50%;
+}
+a{
+    color: #c0a3ef;  
+}
+.form-control:focus {
+    border-color: #c0a3ef;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
